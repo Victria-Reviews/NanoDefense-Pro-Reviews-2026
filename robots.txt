@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victria-reviews.github.io/NanoDefense-Pro-Reviews-2026/sitemap.xml
